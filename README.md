@@ -7,5 +7,5 @@
 - ⚡ Fun fact: ...
 
 <!---
-lorisss29/lorisss29 is a ✨ special ✨ repository because its `README.md` (this file) appears
+lorisss29/lorisss29 is a ✨ special ✨ repository because its `README.md` (this file)
 --->
